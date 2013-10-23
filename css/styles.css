@@ -4,7 +4,9 @@ footer {
 	background-color: green;
 }
 
-
+p {
+	font-family: 'Noto Sans', sans-serif;
+}
 
 /* Help Class to Show Grid */
 .showgrid {
