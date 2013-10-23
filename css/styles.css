@@ -1,14 +1,13 @@
 /* Stylesheet */
 
-footer {
-	background-color: green;
+body {
+	background: url("../img/bg.png");
 }
+
+
 
 p {
 	font-family: 'Noto Sans', sans-serif;
 }
 
 /* Help Class to Show Grid */
-.showgrid {
-	background: url("../img/12-col-grid.gif") !important;
-}
