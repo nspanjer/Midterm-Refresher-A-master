@@ -8,8 +8,62 @@ img {
 	width: 50%;
 }
 
+#google a:hover {
+	background: url("../img/chrome.png") no-repeat left center;
+}
+
+#mozilla a:hover {
+	background: url("../img/firefox.png") no-repeat left center;
+}
+
+#google a:hover {
+	background: url("../img/chrome.png") no-repeat left center;
+}
+
+#google a:hover {
+	background: url("../img/chrome.png") no-repeat left center;
+}
+
+#google a:hover {
+	background: url("../img/chrome.png") no-repeat left center;
+}
+
 p {
 	font-family: 'Noto Sans', sans-serif;
 }
 
-/* Help Class to Show Grid */
+
+/* 
+ A. Make horizontal navigaton
+ B. Improve accessiblity of links
+*/
+
+li {
+  
+  float: left;
+  height: 50px;
+  line-height: 50px;
+  list-style: none;
+	margin: 0 20px 0 10px;
+  text-align: right;
+  width: 150px;
+}
+
+nav a {
+	color: #fff;
+	display: block;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+a {
+  
+  color: #fff;
+  display: block;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+a:hover {
+  background: blue;
+}
